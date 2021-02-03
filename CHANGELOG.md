@@ -2,6 +2,15 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.0.20](https://github.com/uavos/public-test/releases/tag/release-11.0.20) (02/03/21)
+
+> Branch: `dev`\
+> Date: `02/03/21 16:53:55`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/a029f2024dcf0c49779bdcad76322ce09a0f4e7b...c5965fc5849f32baa7a37255f05b547d830b31f7)
+
+### Bug Fixes
+* commits and title
+
 ## [Version v11.0.18](https://github.com/uavos/apx-fw/releases/tag/release-11.0.18) (02/03/21)
 
 > Branch: `dev`\
