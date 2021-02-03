@@ -2,21 +2,45 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
-## [Version e6236e2](https://github.com/uavos/apx-fw/releases/tag/e6236e2) (02/03/21)
+## [Version v11.0.18](https://github.com/uavos/apx-fw/releases/tag/release-11.0.18) (02/03/21)
 
-> Branch: `release`\
-> Date: `02/03/21 12:41:29`\
-> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/initial commit (e6236e2fe28f92c91fa56c44205990f29c763641)...e6236e2fe28f92c91fa56c44205990f29c763641)
+> Branch: `dev`\
+> Date: `02/03/21 16:46:42`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/e6236e2fe28f92c91fa56c44205990f29c763641...4f0e779dcfeb99ce6a511d2e1a31341be114eca1)
 
-### Bug Fixes
-* wf
-
-## [Version 10ba9f1](https://github.com/uavos/apx-fw/releases/tag/10ba9f1) (02/03/21)
-
-> Branch: `release`\
-> Date: `02/03/21 12:33:00`\
-> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/initial commit (10ba9f12994dc261753ed831f4954897d1499dcc)...10ba9f12994dc261753ed831f4954897d1499dcc)
+### New Features
+* changelogs in fw repo
 
 ### Bug Fixes
-* checkout sequence
+* changelog ref
+
+## [Version v11.0.16](https://github.com/uavos/apx-fw/releases/tag/release-11.0.16) (02/03/21)
+
+> Branch: `dev`\
+> Date: `02/03/21 16:33:37`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/e6236e2fe28f92c91fa56c44205990f29c763641...3485ef677dc3e8e67e60394685c195853b784fba)
+
+### New Features
+* changelogs in fw repo
+
+### Bug Fixes
+* changelog ref
+
+## [Version v11.0.15](https://github.com/uavos/apx-fw/releases/tag/release-11.0.15) (02/03/21)
+
+> Branch: `dev`\
+> Date: `02/03/21 16:20:44`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/e6236e2fe28f92c91fa56c44205990f29c763641...3a4a3642d6eb40b10012846af0fc19bc818e5ab4)
+
+### New Features
+* changelogs in fw repo
+
+## [Version v11.0.13](https://github.com/uavos/apx-fw/releases/tag/release-11.0.13) (02/03/21)
+
+> Branch: `dev`\
+> Date: `02/03/21 15:56:23`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/changelog...8538cc4262cfa35af865759d2300e595849f61a7)
+
+### New Features
+* changelogs in fw repo
 
