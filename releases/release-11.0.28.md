@@ -1,0 +1,2 @@
+# Bug Fixes
+* asset path
